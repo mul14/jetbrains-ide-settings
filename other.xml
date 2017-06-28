@@ -1,0 +1,32 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.0.0/bin/node" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="5900242dec293a75cd4fb874" name="Sahito - Sprint 19" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="4ed9fa776715c257d02a939c" name="mul14" />
+      </option>
+      <password>dfcbdfccdf93dfc8dfc8df9bdf9cdfccdf92df98df9ddfcbdf9ddf92df9adfcedfcedf9adf9adf9edf98dfc9df9ddfccdf9fdfc9df9adfc9dfcedf93df9cdfcbdfcedf98dfcbdf99df99df9ddf93dfcedf9cdf93dfc9dfcbdf9ddf93dfcfdfcbdfcedfccdf98dfcedf9edf98df9cdfcfdfcedf9adfc9df99dfcbdfcfdf9cdf99</password>
+      <option name="includeAllCards" value="false" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
+</application>
